@@ -1,3 +1,4 @@
 node_modules/
 package-lock.json
-webtorrent.debug.js
+yarn.lock
+bin/*.txt
